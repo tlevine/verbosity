@@ -1,0 +1,3 @@
+#!/bin/sh
+
+find /usr/share/man/man1 -exec zgrep --color --with-filename verbosity {} \; > results

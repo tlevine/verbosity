@@ -1,0 +1,152 @@
+/usr/share/man/man1/alsaloop.1.gz:Verbose mode. Use multiple times to increase verbosity.
+/usr/share/man/man1/gpg2.1.gz:the current locale. A verbosity level of 3 shows the chosen set.
+/usr/share/man/man1/gpg2.1.gz:be repeated multiple times to increase the verbosity level.
+/usr/share/man/man1/range.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/ffmpeg.1.gz:Exceptions from this rule are the global options (e.g. verbosity level),
+/usr/share/man/man1/gpg-agent.1.gz:You can increase the verbosity by giving several
+/usr/share/man/man1/pod2usage.1perl.gz:The desired level of verbosity to use:
+/usr/share/man/man1/mp4file.1.gz:increase verbosity or long\-option to set NUM
+/usr/share/man/man1/slogin.1.gz:options increase the verbosity.
+/usr/share/man/man1/perldebug.1perl.gz:Level of verbosity.  By default, the debugger leaves your exceptions
+/usr/share/man/man1/msgfmt.1.gz:increase verbosity level
+/usr/share/man/man1/numgrep.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/mplayer.1.gz:Control verbosity directly for each module.
+/usr/share/man/man1/mplayer.1.gz:The 'all' module changes the verbosity of all the modules not
+/usr/share/man/man1/mplayer.1.gz:Increment verbosity level, one level for each \-v
+/usr/share/man/man1/mplayer.1.gz:Set the initial verbosity level across all message modules (default: 0).
+/usr/share/man/man1/mplayer.1.gz:The resulting verbosity corresponds to that of \-msglevel 5 plus the
+/usr/share/man/man1/mplayer.1.gz:Sets the libdvdcss verbosity level.
+/usr/share/man/man1/round.1.gz:\&    \-V      Increase verbosity.  This will print out numbers as it finds them.
+/usr/share/man/man1/gitremote-helpers.1.gz:verbosity
+/usr/share/man/man1/gitremote-helpers.1.gz:\fIoption verbosity\fR <n>
+/usr/share/man/man1/gitremote-helpers.1.gz:Changes the verbosity of messages displayed by the helper\&. A value of 0 for <n> means that processes operate quietly, and the helper produces only error output\&. 1 is the default level of verbosity, and higher values of <n> correspond to the number of \-v flags passed on the command line\&.
+/usr/share/man/man1/infocmp.1m.gz:Higher values of n induce greater verbosity.
+/usr/share/man/man1/xdg-email.1.gz:Setting this environment variable to a non\-zero numerical value makes xdg\-email do more verbose reporting on stderr\&. Setting a higher value increases the verbosity\&.
+/usr/share/man/man1/rec.1.gz:Set verbosity. This is particularly useful for seeing how any automatic
+/usr/share/man/man1/rec.1.gz:verbosity levels:
+/usr/share/man/man1/rec.1.gz:By default, the verbosity level is set to 2 (shows errors and
+/usr/share/man/man1/rec.1.gz:verbosity level by 1.  Alternatively, the verbosity level can be set
+/usr/share/man/man1/scdaemon.1.gz:You can increase the verbosity by giving several
+/usr/share/man/man1/mpg123.1.gz:Increase the verbosity level.  For example, displays the frame
+/usr/share/man/man1/xdg-icon-resource.1.gz:Setting this environment variable to a non\-zero numerical value makes xdg\-icon\-resource do more verbose reporting on stderr\&. Setting a higher value increases the verbosity\&.
+/usr/share/man/man1/average.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/xbuild.1.gz:.B \//verbosity:<level>
+/usr/share/man/man1/xbuild.1.gz:Logger verbosity level : quiet, minimal, normal, detailed, diagnostic
+/usr/share/man/man1/xbuild.1.gz:the log file name can be specified via a corresponding /flp[n] option. Default verbosity
+/usr/share/man/man1/xbuild.1.gz:that were resolved successfully. These logs show up if the verbosity is set to detailed
+/usr/share/man/man1/xbuild.1.gz:Running with /v:detailed or higher verbosity will show the various paths that it tries.
+/usr/share/man/man1/xdg-desktop-menu.1.gz:Setting this environment variable to a non\-zero numerical value makes xdg\-desktop\-menu do more verbose reporting on stderr\&. Setting a higher value increases the verbosity\&.
+/usr/share/man/man1/gcc.1.gz:inner-most, single-bb, single\-entry/exit loops.  This is the same verbosity
+/usr/share/man/man1/gcc.1.gz:Higher verbosity levels mean either more information dumped for each
+/usr/share/man/man1/gcc.1.gz:analysis and transformation is reported.  This is the same verbosity level
+/usr/share/man/man1/gcc.1.gz:Control the verbosity of the dump file for the integrated register allocator.
+/usr/share/man/man1/ghc.1.gz:.SS Help and verbosity options
+/usr/share/man/man1/ghc.1.gz:set verbosity level
+/usr/share/man/man1/bzip2.1.gz:Further \-v's increase the verbosity level, spewing out lots of
+/usr/share/man/man1/mp4art.1.gz:increase verbosity or long\-option to set NUM
+/usr/share/man/man1/ldns-verify-zone.1.gz:Set the verbosity level (default 3):
+/usr/share/man/man1/ldns-keyfetcher.1.gz:\fB-v\fR \fIverbosity\fR
+/usr/share/man/man1/ldns-keyfetcher.1.gz:Set the verbosity level. The following levels are available:
+/usr/share/man/man1/cpupower-monitor.1.gz:Increase verbosity if the binary was compiled with the DEBUG option set.
+/usr/share/man/man1/ssh.1.gz:options increase the verbosity.
+/usr/share/man/man1/ppl_lpsol.1.gz:\fB\-v\fR, \fB\-\-verbosity\fR=\fILEVEL\fR
+/usr/share/man/man1/ppl_lpsol.1.gz:sets verbosity level (from 0 to 4, default 3):
+/usr/share/man/man1/lzma.1.gz:This option doesn't affect the verbosity level, thus both
+/usr/share/man/man1/git-merge.1.gz:merge\&.verbosity
+/usr/share/man/man1/git.1.gz:A number controlling the amount of output shown by the recursive merge strategy\&. Overrides merge\&.verbosity\&. See
+/usr/share/man/man1/tmux.1.gz:This option may be specified multiple times for increasing verbosity.
+/usr/share/man/man1/xdg-desktop-icon.1.gz:Setting this environment variable to a non\-zero numerical value makes xdg\-desktop\-icon do more verbose reporting on stderr\&. Setting a higher value increases the verbosity\&.
+/usr/share/man/man1/bzcat.1.gz:Further \-v's increase the verbosity level, spewing out lots of
+/usr/share/man/man1/unlzma.1.gz:This option doesn't affect the verbosity level, thus both
+/usr/share/man/man1/mencoder.1.gz:Control verbosity directly for each module.
+/usr/share/man/man1/mencoder.1.gz:The 'all' module changes the verbosity of all the modules not
+/usr/share/man/man1/mencoder.1.gz:Increment verbosity level, one level for each \-v
+/usr/share/man/man1/mencoder.1.gz:Set the initial verbosity level across all message modules (default: 0).
+/usr/share/man/man1/mencoder.1.gz:The resulting verbosity corresponds to that of \-msglevel 5 plus the
+/usr/share/man/man1/mencoder.1.gz:Sets the libdvdcss verbosity level.
+/usr/share/man/man1/play.1.gz:Set verbosity. This is particularly useful for seeing how any automatic
+/usr/share/man/man1/play.1.gz:verbosity levels:
+/usr/share/man/man1/play.1.gz:By default, the verbosity level is set to 2 (shows errors and
+/usr/share/man/man1/play.1.gz:verbosity level by 1.  Alternatively, the verbosity level can be set
+/usr/share/man/man1/pulseaudio.1.gz:If an argument is passed, set the log level to the specified value, otherwise increase the configured verbosity level by one. The log levels are numerical from 0 to 4, corresponding to \fIerror\f1, \fIwarn\f1, \fInotice\f1, \fIinfo\f1, \fIdebug\f1. Default log level is \fInotice\f1, i.e. all log messages with lower log levels are printed: \fIerror\f1, \fIwarn\f1, \fInotice\f1.
+/usr/share/man/man1/pulseaudio.1.gz:Increase the configured verbosity level by one (see \fB--log-level\f1 above). Specify multiple times to increase log level multiple times.
+/usr/share/man/man1/msgmerge.1.gz:increase verbosity level
+/usr/share/man/man1/enca.1.gz:Increases verbosity level (each use increases it by one).
+/usr/share/man/man1/enca.1.gz:respond differently to the same verbosity level, mostly not at all.
+/usr/share/man/man1/avr-gcc.1.gz:inner-most, single-bb, single\-entry/exit loops.  This is the same verbosity
+/usr/share/man/man1/avr-gcc.1.gz:Higher verbosity levels mean either more information dumped for each
+/usr/share/man/man1/avr-gcc.1.gz:analysis and transformation is reported.  This is the same verbosity level
+/usr/share/man/man1/avr-gcc.1.gz:Control the verbosity of the dump file for the integrated register allocator.
+/usr/share/man/man1/fftwl-wisdom.1.gz:argument greater than 1, to increase the verbosity level.)  Note that the
+/usr/share/man/man1/unxz.1.gz:This option doesn't affect the verbosity level, thus both
+/usr/share/man/man1/soxi.1.gz:Set verbosity. See
+/usr/share/man/man1/command.1p.gz:constrained in its verbosity or localization for application parsing
+/usr/share/man/man1/dirmngr.1.gz:You can increase the verbosity by giving several
+/usr/share/man/man1/lzcat.1.gz:This option doesn't affect the verbosity level, thus both
+/usr/share/man/man1/ssh-keygen.1.gz:options increase the verbosity.
+/usr/share/man/man1/xapian-check.1.gz:.SS "The btree(s) is/are always checked - control the output verbosity with:"
+/usr/share/man/man1/msgunfmt.1.gz:increase verbosity level
+/usr/share/man/man1/ldns-testns.1.gz:times to increase verbosity level.
+/usr/share/man/man1/bunzip2.1.gz:Further \-v's increase the verbosity level, spewing out lots of
+/usr/share/man/man1/interval.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/numsum.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/setxkbmap.1.gz:Specifies level of verbosity in output messages.  Valid levels range from
+/usr/share/man/man1/setxkbmap.1.gz:0 (least verbose) to 10 (most verbose).  The default verbosity level is 5.
+/usr/share/man/man1/fftwf-wisdom.1.gz:argument greater than 1, to increase the verbosity level.)  Note that the
+/usr/share/man/man1/g++.1.gz:inner-most, single-bb, single\-entry/exit loops.  This is the same verbosity
+/usr/share/man/man1/g++.1.gz:Higher verbosity levels mean either more information dumped for each
+/usr/share/man/man1/g++.1.gz:analysis and transformation is reported.  This is the same verbosity level
+/usr/share/man/man1/g++.1.gz:Control the verbosity of the dump file for the integrated register allocator.
+/usr/share/man/man1/xz.1.gz:This option doesn't affect the verbosity level, thus both
+/usr/share/man/man1/mp4track.1.gz:increase verbosity or long\-option to set NUM
+/usr/share/man/man1/ffserver.1.gz:Enable debug mode. This option increases log verbosity, directs log
+/usr/share/man/man1/gpg.1.gz:the current locale. A verbosity level of 3 shows the chosen set.
+/usr/share/man/man1/gpg.1.gz:be repeated multiple times to increase the verbosity level.
+/usr/share/man/man1/Xorg.1.gz:Sets the verbosity level for information printed to the
+/usr/share/man/man1/Xorg.1.gz:file verbosity level.  When the
+/usr/share/man/man1/Xorg.1.gz:value is supplied, the log file verbosity level is set to that value.
+/usr/share/man/man1/Xorg.1.gz:The default log file verbosity level is 3.
+/usr/share/man/man1/Xorg.1.gz:Suppress most informational messages at startup.  The verbosity level
+/usr/share/man/man1/Xorg.1.gz:Sets the verbosity level for information printed on stderr.  If the
+/usr/share/man/man1/Xorg.1.gz:verbosity level.  When the
+/usr/share/man/man1/Xorg.1.gz:value is supplied, the verbosity level is set to that value.  The default
+/usr/share/man/man1/Xorg.1.gz:verbosity level is 0.
+/usr/share/man/man1/bound.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/numprocess.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/gpgsm.1.gz:You can increase the verbosity by giving several
+/usr/share/man/man1/gpgsm.1.gz:preferred method to select the debug verbosity.  FLAGS are bit encoded
+/usr/share/man/man1/mono.1.gz:Increases the verbosity level, each time it is listed, increases the
+/usr/share/man/man1/mono.1.gz:verbosity level to include more information (including, for example, 
+/usr/share/man/man1/mono.1.gz:Enables the maximum JIT verbosity for the specified method. This is
+/usr/share/man/man1/bzip2recover.1.gz:Further \-v's increase the verbosity level, spewing out lots of
+/usr/share/man/man1/mutt.1.gz:\fILevel\fP can range from 1-5 and effects verbosity. A value of 2 is
+/usr/share/man/man1/gpm-root.1.gz:-V \fBverbosity increment\fP
+/usr/share/man/man1/salt.1.gz:Turn on verbosity for the salt call, this will cause the salt command to
+/usr/share/man/man1/sox.1.gz:Set verbosity. This is particularly useful for seeing how any automatic
+/usr/share/man/man1/sox.1.gz:verbosity levels:
+/usr/share/man/man1/sox.1.gz:By default, the verbosity level is set to 2 (shows errors and
+/usr/share/man/man1/sox.1.gz:verbosity level by 1.  Alternatively, the verbosity level can be set
+/usr/share/man/man1/normalize.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/ldns-dpa.1.gz:Set verbosity to level (1-5, 5 being the highest). Mostly used for debugging.
+/usr/share/man/man1/mp4subtitle.1.gz:increase verbosity or long\-option to set NUM
+/usr/share/man/man1/fftw-wisdom.1.gz:argument greater than 1, to increase the verbosity level.)  Note that the
+/usr/share/man/man1/random.1.gz:\&    \-V  Increase verbosity.
+/usr/share/man/man1/perltoc.1perl.gz:load_module_verbosity, makepl_arg, make_arg, make_install_arg,
+/usr/share/man/man1/perltoc.1perl.gz:tar_verbosity, term_is_latin, term_ornaments, test_report,
+/usr/share/man/man1/perltoc.1perl.gz:perl5lib_verbosity, prefer_external_tar, trust_test_report_history,
+/usr/share/man/man1/perltoc.1perl.gz:.ie n .IP "($z, $status) = new Compress::Raw::Bunzip2 $appendOutput, $consumeInput, $small, $verbosity, $limitOutput;" 4
+/usr/share/man/man1/perltoc.1perl.gz:.el .IP "($z, \f(CW$status\fR) = new Compress::Raw::Bunzip2 \f(CW$appendOutput\fR, \f(CW$consumeInput\fR, \f(CW$small\fR, \f(CW$verbosity\fR, \f(CW$limitOutput\fR;" 4
+/usr/share/man/man1/perltoc.1perl.gz:.IX Item "($z, $status) = new Compress::Raw::Bunzip2 $appendOutput, $consumeInput, $small, $verbosity, $limitOutput;"
+/usr/share/man/man1/perltoc.1perl.gz:\&\fB\f(CB$verbosity\fB\fR
+/usr/share/man/man1/perltoc.1perl.gz:\&\f(CW\*(C`verbosity\*(C'\fR, \f(CW\*(C`verbose\*(C'\fR, \f(CW\*(C`timer\*(C'\fR, \f(CW\*(C`failures\*(C'\fR, \f(CW\*(C`comments\*(C'\fR, \f(CW\*(C`quiet\*(C'\fR,
+/usr/share/man/man1/perltoc.1perl.gz:\&\f(CW\*(C`verbosity\*(C'\fR, \f(CW\*(C`timer\*(C'\fR, \f(CW\*(C`failures\*(C'\fR, \f(CW\*(C`comments\*(C'\fR, \f(CW\*(C`show_count\*(C'\fR,
+/usr/share/man/man1/dirmngr-client.1.gz:You can increase the verbosity by giving several
+/usr/share/man/man1/xzcat.1.gz:This option doesn't affect the verbosity level, thus both
+/usr/share/man/man1/xdg-mime.1.gz:Setting this environment variable to a non\-zero numerical value makes xdg\-mime do more verbose reporting on stderr\&. Setting a higher value increases the verbosity\&.
+/usr/share/man/man1/git-config.1.gz:merge\&.verbosity
+/usr/share/man/man1/avr-g++.1.gz:inner-most, single-bb, single\-entry/exit loops.  This is the same verbosity
+/usr/share/man/man1/avr-g++.1.gz:Higher verbosity levels mean either more information dumped for each
+/usr/share/man/man1/avr-g++.1.gz:analysis and transformation is reported.  This is the same verbosity level
+/usr/share/man/man1/avr-g++.1.gz:Control the verbosity of the dump file for the integrated register allocator.
+/usr/share/man/man1/enconv.1.gz:Increases verbosity level (each use increases it by one).
+/usr/share/man/man1/enconv.1.gz:respond differently to the same verbosity level, mostly not at all.
